@@ -1,0 +1,56 @@
+p {
+    color: white;
+}
+
+
+.body {
+    background-color: #111111;
+}
+
+.div-18 {
+    align-items: flex-end;
+    display: flex;
+    gap: 80px;
+    position: relative;
+    width: fit-content;
+}
+
+/* .section {
+    align-items: flex-start;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fid.pngtree.com%2Ffree-backgrounds-photos%2Fhitam-mengkilap&psig=AOvVaw1CZY9gEM1Jy_5I0YWJDfrZ&ust=1679123818220000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICVy-e14v0CFQAAAAAdAAAAABAE);
+    background-position: 50% 50%;
+    background-size: flex;
+    padding: 160px 576px;
+    position: relative;
+    width: fit-content;
+} */
+
+.footer {
+    align-items: flex-start; 
+    background-color: #a6895a;
+    display: flex;
+    height: auto;
+    left: 0;
+    mix-blend-mode: normal;
+    padding: 0px 192px;
+    position: absolute;
+    top: 3149px;
+    width: fit-content;
+}
+
+.div-25 { 
+    height: 238px; 
+    min-width: 1536px; 
+    position: relative;
+}
+
+.div-26 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px; 
+    left: 774px;
+    position: absolute;
+    top: 80px;
+    width: fit-content;
+}
